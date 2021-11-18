@@ -1,29 +1,29 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/HHjw51Z.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Ajmal342"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal342/Julie-V3?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/Ajmal342">Ajmal342</a> to make it public
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farhan-dqz/JulieMwol&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ajmal342/Julie-V3&title=Profile%20Views)
 
 ## Setup
 <div align="center">
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal342/Julie-V3) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -32,8 +32,8 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/farhan-dqz/Julie-Mwol
-$ cd Julie-Mwol
+$ git clone https://github.com/Ajmal342/Julie-V3
+$ cd Julie-V3
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -41,8 +41,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd Julie-Mwol
+$ git clone https://github.com/Ajmal342/Julie-V3
+$ cd Julie-V3
 $ npm i
 $ node julie.js
 ```
