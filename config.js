@@ -16,7 +16,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 
 module.exports = {
     VERSION: 'v1.0.8',
-    SESSION: process.env.ASENA_SESSION === undefined ? '' : process.env.ASENA_SESSION,
+    SESSION: process.env.Julie-V3_SESSION === undefined ? '' : process.env.ASENA_SESSION,
     EXT: process.env.EXT === undefined ? undefined : process.env.EXT,
     LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
     HANDLERS: process.env.HANDLERS === undefined ? '^[.]' : process.env.HANDLERS,
@@ -41,6 +41,6 @@ module.exports = {
     WARN_COUNT: process.env.WARN_COUNT === undefined ? 3 : process.env.WARN_COUNT,
     WARN_MSG: process.env.WARN_MSG === undefined ? "Ok bie" : process.env.WARN_MSG,
     ANTIJID: process.env.ANTIJID === undefined ? '' : process.env.ANTIJID,
-    STICKER_PACKNAME: process.env.STICKER_PACKNAME === undefined ? '🥰,lyfe00011' : process.env.STICKER_PACKNAME,
+    STICKER_PACKNAME: process.env.STICKER_PACKNAME === undefined ? '🥰,Ajmal342' : process.env.STICKER_PACKNAME,
     BRAINSHOP: process.env.BRAINSHOP === undefined ? "159501,6pq8dPiYt7PdqHz3" : process.env.BRAINSHOP
 };
